@@ -1,0 +1,1 @@
+File used to generate a conflict when merging
