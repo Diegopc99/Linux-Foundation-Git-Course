@@ -1,2 +1,3 @@
 Test file to try some git features
 - First modification
+- Generating conflict 
